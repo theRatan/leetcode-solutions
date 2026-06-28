@@ -1,2 +1,19 @@
-# leetcode-solutions
-Java solutions to LeetCode problems
+# LeetCode Solutions (Java)
+
+This repository contains my Java solutions to LeetCode problems.
+
+## Progress
+- Total Solved: 1
+- Language: Java
+
+## Topics
+- Arrays
+- Strings
+- Linked Lists
+- Stack
+- Queue
+- Trees
+- Graphs
+- Dynamic Programming
+
+I update this repository regularly as I continue my DSA journey.
