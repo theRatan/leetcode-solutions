@@ -1,23 +1,36 @@
 class Solution {
-    public boolean isPalindrome(String s) {
-        String s1=s.toLowerCase();
-          String st="";
-          String str=""; 
-          for(int i=0;i<s1.length();i++)
-          {
-              char ch=s1.charAt(i);
-              if(ch>='a'&&ch<='z'||ch>='0'&&ch<='9')
-              {
-                  st=st+ch;
-                  str=ch+str;
-              }
-          }  
-          if(st.equals(str))
-          {
-              return true;
-          }
-          else{
-              return false;
-          }
+    public boolean isPalindrome(String s1) {
+        boolean ans=true;
+        String s=s1.toLowerCase();
+        int l=0;
+        int r=s.length()-1;
+       
+        while(l<r)
+        {
+            char c1=s.charAt(l);
+            char c2=s.charAt(r);
+            if(!(c1>='a'&&c1<='z' || c1>='0'&&c1<='9'))
+            {
+                l++;
+                continue;
+            }
+            if(!(c2>='a'&&c2<='z' || c2>='0'&&c2<='9'))
+            {            r--;
+                continue;
+            }
+            if(c1==c2)
+            {
+                l++;
+                r--;
+                continue;
+            }
+            else{
+                ans=false;
+                break;
+            }
+        }
+        return ans;
+    
+
     }
 }
