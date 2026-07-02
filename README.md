@@ -3,7 +3,7 @@
 This repository contains my Java solutions to LeetCode problems.
 
 ## Progress
-- Total Solved: 7
+- Total Solved: 8
 - Language: Java
 
 ## Topics
