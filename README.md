@@ -2,11 +2,12 @@
 
 Java solutions to LeetCode problems, organized by primary technique rather than surface-level data structure. A problem that touches an array but hinges on hashing lives in `Hashing/`, not `Arrays/`.
 
-## Update Frequency:Weekly
+## Update Frequency
+**Weekly**
 
 ## Structure
 
-```
+```text
 leetcode-solutions/
 ├── README.md
 ├── Arrays/
@@ -19,18 +20,55 @@ leetcode-solutions/
 ## Conventions
 
 - **File naming:** `NNNN_ProblemName.java` (e.g. `0217_ContainsDuplicate.java`)
+- **Folder logic:** Problems are organized by the **primary algorithmic technique** used in the solution, not every topic the problem is tagged with.
 
-- **Folder logic:** filed by the core technique the solution demonstrates, not every concept the problem happens to touch
+---
 
 ## Progress
 
 | # | Problem | Technique | Folder |
-|---|---------|-----------|--------|
+|---:|---------|-----------|--------|
 | 1 | Two Sum | Hashing | `Hashing/` |
 | 26 | Remove Duplicates from Sorted Array | Two Pointers | `TwoPointers/` |
 | 27 | Remove Element | Two Pointers | `TwoPointers/` |
+| 49 | Group Anagrams | Hashing | `Hashing/` |
 | 88 | Merge Sorted Array | Two Pointers | `TwoPointers/` |
-| 121 | Best Time to Buy and Sell Stock | Array (one-pass) | `Arrays/` |
+| 121 | Best Time to Buy and Sell Stock | Array (One Pass) | `Arrays/` |
+| 125 | Valid Palindrome | Two Pointers | `TwoPointers/` |
 | 217 | Contains Duplicate | Hashing | `Hashing/` |
-| 219 | Contains Duplicate II | Sliding Window | `SlidingWindow/` |
+| 219 | Contains Duplicate II | Hashing | `Hashing/` |
 | 242 | Valid Anagram | Hashing | `Hashing/` |
+
+---
+
+## Repository Statistics
+
+| Technique | Solved |
+|-----------|-------:|
+| Arrays | 1 |
+| Hashing | 5 |
+| Two Pointers | 4 |
+| Sliding Window | 0 |
+| Strings | 0 |
+
+**Total Problems Solved:** **10**
+
+---
+
+## Current Learning Roadmap
+
+- ✅ Arrays
+- ✅ Two Pointers
+- ✅ Hashing
+- ⏳ Sliding Window
+- ⏳ Binary Search
+- ⏳ Stack
+- ⏳ Queue
+- ⏳ Linked List
+- ⏳ Trees
+- ⏳ Graphs
+- ⏳ Dynamic Programming
+
+---
+
+⭐ This repository is maintained as part of my Data Structures & Algorithms interview preparation using **Java**, with a focus on mastering algorithmic patterns for software engineering internships and technical interviews.
