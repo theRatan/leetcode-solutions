@@ -14,7 +14,17 @@ leetcode-solutions/
 ├── Hashing/
 ├── TwoPointers/
 ├── SlidingWindow/
-└── Strings/
+├── Strings/
+├── BinarySearch/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Trees/
+├── Graphs/
+├── DynamicProgramming/
+├── Greedy/
+├── Backtracking/
+└── Math/
 ```
 
 ## Conventions
