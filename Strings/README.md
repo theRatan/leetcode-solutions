@@ -1,31 +1,33 @@
-# Strings
+# Sliding Window
 
-This folder contains LeetCode problems where the primary technique is **string manipulation**, including character processing, parsing, and string construction.
+This folder contains LeetCode problems where the primary technique is **Sliding Window**, including fixed-size and dynamic window problems on arrays and strings.
 
 ## 📚 Solved Problems
 
 | # | Problem | Difficulty | Status |
 |---:|---------|:----------:|:------:|
-| - | No problems yet | - | ⏳ |
+| 3 | Longest Substring Without Repeating Characters | Medium | ✅ |
 
-**Total Solved:** 0
+**Total Solved:** 1
 
 ---
 
 ## 🧠 Concepts Covered
 
-- Character Traversal
-- String Comparison
-- StringBuilder
-- Character Arrays
-- String Parsing
-- String Manipulation
+- Fixed Sliding Window
+- Dynamic Sliding Window
+- Two Pointer Technique
+- Window Expansion
+- Window Shrinking
+- HashSet
+- Maintaining Window State
+- Longest Valid Window
 
 ---
 
 ## 🎯 Learning Objective
 
-Develop a strong understanding of string processing techniques, including efficient manipulation, comparison, parsing, and transformation. These concepts are frequently used in coding interviews and real-world applications.
+Develop a strong understanding of the Sliding Window technique to efficiently solve substring and subarray problems in **O(n)** time. Mastering this pattern is essential for coding interviews and competitive programming.
 
 ---
 
@@ -33,19 +35,19 @@ Develop a strong understanding of string processing techniques, including effici
 
 | Pattern | Complexity |
 |---------|:----------:|
-| String Traversal | O(n) |
-| Character Processing | O(n) |
-| StringBuilder Operations | O(n) |
+| Fixed Sliding Window | O(n) |
+| Dynamic Sliding Window | O(n) |
+| HashSet Operations | O(1) Average |
 
 ---
 
 ## 📁 Naming Convention
-
+...
 NNNN_ProblemName.java
+...
 
 Example:
-
-0058_LengthOfLastWord.java
+0003_LongestSubstringWithoutRepeatingCharacters.java
 ...
 
 **Last Updated:** July 2026
