@@ -39,6 +39,7 @@ leetcode-solutions/
 | # | Problem | Technique | Folder |
 |---:|---------|-----------|--------|
 | 1 | Two Sum | Hashing | `Hashing/` |
+| 3 | Longest Substring Without Repeating Characters | Medium | Sliding Window | `SlidingWindow/` |
 | 26 | Remove Duplicates from Sorted Array | Two Pointers | `TwoPointers/` |
 | 27 | Remove Element | Two Pointers | `TwoPointers/` |
 | 49 | Group Anagrams | Hashing | `Hashing/` |
@@ -58,10 +59,10 @@ leetcode-solutions/
 | Arrays | 1 |
 | Hashing | 5 |
 | Two Pointers | 4 |
-| Sliding Window | 0 |
+| Sliding Window | 1 |
 | Strings | 0 |
 
-**Total Problems Solved:** **10**
+**Total Problems Solved:** **11**
 
 ---
 
@@ -70,7 +71,7 @@ leetcode-solutions/
 - ✅ Arrays
 - ✅ Two Pointers
 - ✅ Hashing
-- ⏳ Sliding Window
+- ✅ Sliding Window (current)
 - ⏳ Binary Search
 - ⏳ Stack
 - ⏳ Queue
