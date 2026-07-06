@@ -7,8 +7,9 @@ This folder contains LeetCode problems where the primary technique is **Sliding 
 | # | Problem | Difficulty | Status |
 |---:|---------|:----------:|:------:|
 | 3 | Longest Substring Without Repeating Characters | Medium | ✅ |
+| 58 | Length of Last Word | Easy | ✅ |
 
-**Total Solved:** 1
+**Total Solved:** 2
 
 ---
 
@@ -19,7 +20,7 @@ This folder contains LeetCode problems where the primary technique is **Sliding 
 - Two Pointer Technique
 - Window Expansion
 - Window Shrinking
-- HashSet
+- HashSet 
 - Maintaining Window State
 - Longest Valid Window
 
