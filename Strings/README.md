@@ -8,7 +8,7 @@ This folder contains LeetCode problems where the primary technique is **Sliding 
 |---:|---------|:----------:|:------:|
 | 58 | Length of Last Word | Easy | ✅ |
 
-**Total Solved:** 2
+**Total Solved:** 1
 
 ---
 
