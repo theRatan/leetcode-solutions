@@ -6,7 +6,6 @@ This folder contains LeetCode problems where the primary technique is **Sliding 
 
 | # | Problem | Difficulty | Status |
 |---:|---------|:----------:|:------:|
-| 3 | Longest Substring Without Repeating Characters | Medium | ✅ |
 | 58 | Length of Last Word | Easy | ✅ |
 
 **Total Solved:** 2
