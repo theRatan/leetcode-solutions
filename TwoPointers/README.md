@@ -9,9 +9,9 @@ This folder contains LeetCode problems where the primary technique is the **Two 
 | 26 | Remove Duplicates from Sorted Array | Easy | ✅ |
 | 27 | Remove Element | Easy | ✅ |
 | 125 | Valid Palindrome | Easy | ✅ |
+| 344 | Reverse String | Easy | ✅ | 
 
-**Total Solved:** 3
-
+**Total Solved:** 4
 ---
 
 ## 🧠 Concepts Covered
