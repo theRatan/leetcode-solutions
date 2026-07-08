@@ -10,8 +10,8 @@ This folder contains LeetCode problems where the primary technique is the **Two 
 | 27 | Remove Element | Easy | ✅ |
 | 125 | Valid Palindrome | Easy | ✅ |
 | 344 | Reverse String | Easy | ✅ | 
-
-**Total Solved:** 4
+| 392 | Is Subsequence | Easy | ✅ |
+**Total Solved:** 5
 ---
 
 ## 🧠 Concepts Covered
